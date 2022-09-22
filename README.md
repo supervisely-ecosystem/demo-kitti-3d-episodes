@@ -25,6 +25,7 @@ Demo project with pointcloud episodes from KITTI dataset
 
 `demo_kitti_pointcloud_episodes` is an example project with 1 pointcloud episode from [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) dataset.
 
+<img src="https://user-images.githubusercontent.com/97401023/191750518-4ce022a6-3320-4206-8c76-cf4adb7d8d19.png" style="width:150%;"/>
 <img src="https://user-images.githubusercontent.com/48913536/191321664-dd35ebaa-a828-48cd-bfc3-687c14d8a63f.png" style="width:150%;"/>
 
 ## Download
