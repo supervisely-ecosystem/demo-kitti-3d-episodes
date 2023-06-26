@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="eco.png" width="250" /> <br>
+<img src="https://github.com/supervisely-ecosystem/demo-kitti-3d-episodes/raw/add-media/media/eco.png" width="250" /> <br>
 
 <img src="https://user-images.githubusercontent.com/48913536/191322942-0644c393-e235-40c5-8e2a-f06f85c664c1.png" width="100"/> 
 
