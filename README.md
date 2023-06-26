@@ -1,6 +1,6 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="eco.png" width="250" /> <br>
 
 <img src="https://user-images.githubusercontent.com/48913536/191322942-0644c393-e235-40c5-8e2a-f06f85c664c1.png" width="100"/> 
 
